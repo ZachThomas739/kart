@@ -1,0 +1,674 @@
+Using pre-set license
+Built from '2022.1/staging' branch; Version is '2022.1.16f1 (7321c9670bc2) revision 7545289'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Education' Language: 'en' Physical Memory: 8117 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.1.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/CB.345/kart
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+58431
+Successfully changed project path to: C:/Users/CB.345/kart
+C:/Users/CB.345/kart
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 74.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.1.16f1 (7321c9670bc2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/CB.345/kart/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x2188)
+    Vendor:   NVIDIA
+    VRAM:     3962 MB
+    Driver:   31.0.15.1694
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56968
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/AppleTVSupport/UnityEditor.AppleTV.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.017262 seconds.
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for AppleTV target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 73.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.704 seconds
+Domain Reload Profiling:
+	ReloadAssembly (704ms)
+		BeginReloadAssembly (86ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (495ms)
+			LoadAssemblies (84ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (123ms)
+				TypeCache.Initialize (122ms)
+					TypeCache.ScanAssembly (120ms)
+				ResolveRequiredComponents (0ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (289ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (70ms)
+				SetLoadedEditorAssemblies (6ms)
+				RefreshPlugins (74ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (97ms)
+				ProcessInitializeOnLoadMethodAttributes (40ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008675 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.111 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1112ms)
+		BeginReloadAssembly (152ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (820ms)
+			LoadAssemblies (124ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (261ms)
+				TypeCache.Initialize (257ms)
+					TypeCache.ScanAssembly (253ms)
+				ResolveRequiredComponents (3ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (374ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (38ms)
+				SetLoadedEditorAssemblies (6ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (85ms)
+				ProcessInitializeOnLoadAttributes (203ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3399 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (58.3 KB). Loaded Objects now: 3861.
+Memory consumption went from 0.51 GB to 0.51 GB.
+Total: 4.634700 ms (FindLiveObjects: 0.455500 ms CreateObjectMapping: 0.105100 ms MarkObjects: 3.972600 ms  DeleteObjects: 0.099700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Shader 'TextMeshPro/Distance Field Overlay': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Refreshing native plugins compatible for Editor in 9.03 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 107 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 30 unused Assets / (0.6 MB). Loaded Objects now: 3938.
+Memory consumption went from 80.4 MB to 79.7 MB.
+Total: 5.935800 ms (FindLiveObjects: 0.581400 ms CreateObjectMapping: 0.127000 ms MarkObjects: 4.511400 ms  DeleteObjects: 0.714800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012879 seconds.
+Begin MonoManager ReloadAssembly
+IOException: Sharing violation on path C:\Users\CB.345\kart\ProjectSettings\Packages\com.unity.testtools.codecoverage\Settings.json
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <3dd5df5ef4974f29afeb2d3ba227c5da>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.IO.FileOptions options) [0x00000] in <3dd5df5ef4974f29afeb2d3ba227c5da>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare,int,System.IO.FileOptions)
+  at System.IO.StreamWriter..ctor (System.String path, System.Boolean append, System.Text.Encoding encoding, System.Int32 bufferSize) [0x00055] in <3dd5df5ef4974f29afeb2d3ba227c5da>:0 
+  at System.IO.StreamWriter..ctor (System.String path) [0x00008] in <3dd5df5ef4974f29afeb2d3ba227c5da>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamWriter..ctor(string)
+  at System.IO.File.WriteAllText (System.String path, System.String contents) [0x00026] in <3dd5df5ef4974f29afeb2d3ba227c5da>:0 
+  at UnityEditor.SettingsManagement.FileSettingsRepository.Save () [0x000e2] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.settings-manager@2.0.1\Editor\FileSettingsRepository.cs:154 
+  at UnityEditor.AssemblyReloadEvents.OnBeforeAssemblyReload () [0x00017] in <8a1c902e1cc24cec8e4dda915647a0cd>:0 
+
+(Filename: Library/PackageCache/com.unity.settings-manager@2.0.1/Editor/FileSettingsRepository.cs Line: 154)
+
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 88.39 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Error saving file Library/StateCache/LayerSettings/9e/9ecc5c3c162a7aba29bafa64c8b94b7c.json. Error: System.IO.IOException: Sharing violation on path C:\Users\CB.345\kart\Library\StateCache\LayerSettings\9e\9ecc5c3c162a7aba29bafa64c8b94b7c.json
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <3dd5df5ef4974f29afeb2d3ba227c5da>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.IO.FileOptions options) [0x00000] in <3dd5df5ef4974f29afeb2d3ba227c5da>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare,int,System.IO.FileOptions)
+  at System.IO.StreamWriter..ctor (System.String path, System.Boolean append, System.Text.Encoding encoding, System.Int32 bufferSize) [0x00055] in <3dd5df5ef4974f29afeb2d3ba227c5da>:0 
+  at System.IO.StreamWriter..ctor (System.String path, System.Boolean append, System.Text.Encoding encoding) [0x00000] in <3dd5df5ef4974f29afeb2d3ba227c5da>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamWriter..ctor(string,bool,System.Text.Encoding)
+  at System.IO.File.WriteAllText (System.String path, System.String contents, System.Text.Encoding encoding) [0x00034] in <3dd5df5ef4974f29afeb2d3ba227c5da>:0 
+  at UnityEditor.StateCache`1[T].SetState (UnityEngine.Hash128 key, T obj) [0x0004b] in <8a1c902e1cc24cec8e4dda915647a0cd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.StateCache`1<UnityEditor.Tools/LayerSettings>:SetState (UnityEngine.Hash128,UnityEditor.Tools/LayerSettings)
+UnityEditor.Tools:set_lockedLayers (int)
+UnityEditor.Tools:OnEnable ()
+UnityEngine.ScriptableObject:CreateInstance (System.Type)
+UnityEngine.ScriptableObject:CreateInstance<UnityEditor.Tools> ()
+UnityEditor.Tools:get_get ()
+UnityEditor.Tools:get_lockedLayers ()
+AutoLockUILayer:SetUILayerIsLocked (bool) (at Assets/Karting/Scripts/Editor/AutoLockUILayer.cs:36)
+AutoLockUILayer:.cctor () (at Assets/Karting/Scripts/Editor/AutoLockUILayer.cs:16)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Karting/Scripts/Editor/AutoLockUILayer.cs Line: 36)
+
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.434 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1434ms)
+		BeginReloadAssembly (162ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (40ms)
+		EndReloadAssembly (1176ms)
+			LoadAssemblies (106ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (283ms)
+				TypeCache.Initialize (278ms)
+					TypeCache.ScanAssembly (272ms)
+				ResolveRequiredComponents (6ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (713ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (45ms)
+				SetLoadedEditorAssemblies (6ms)
+				RefreshPlugins (88ms)
+				BeforeProcessingInitializeOnLoad (81ms)
+				ProcessInitializeOnLoadAttributes (458ms)
+				ProcessInitializeOnLoadMethodAttributes (22ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.96 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4819 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 93 unused Assets / (23.6 MB). Loaded Objects now: 5232.
+Memory consumption went from 0.75 GB to 0.73 GB.
+Total: 10.858600 ms (FindLiveObjects: 0.388900 ms CreateObjectMapping: 0.127400 ms MarkObjects: 3.767500 ms  DeleteObjects: 6.573100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.146293 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Error saving file Library/StateCache/LayerSettings/9e/9ecc5c3c162a7aba29bafa64c8b94b7c.json. Error: System.IO.IOException: Sharing violation on path C:\Users\CB.345\kart\Library\StateCache\LayerSettings\9e\9ecc5c3c162a7aba29bafa64c8b94b7c.json
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <3dd5df5ef4974f29afeb2d3ba227c5da>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.IO.FileOptions options) [0x00000] in <3dd5df5ef4974f29afeb2d3ba227c5da>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare,int,System.IO.FileOptions)
+  at System.IO.StreamWriter..ctor (System.String path, System.Boolean append, System.Text.Encoding encoding, System.Int32 bufferSize) [0x00055] in <3dd5df5ef4974f29afeb2d3ba227c5da>:0 
+  at System.IO.StreamWriter..ctor (System.String path, System.Boolean append, System.Text.Encoding encoding) [0x00000] in <3dd5df5ef4974f29afeb2d3ba227c5da>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamWriter..ctor(string,bool,System.Text.Encoding)
+  at System.IO.File.WriteAllText (System.String path, System.String contents, System.Text.Encoding encoding) [0x00034] in <3dd5df5ef4974f29afeb2d3ba227c5da>:0 
+  at UnityEditor.StateCache`1[T].SetState (UnityEngine.Hash128 key, T obj) [0x0004b] in <8a1c902e1cc24cec8e4dda915647a0cd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.StateCache`1<UnityEditor.Tools/LayerSettings>:SetState (UnityEngine.Hash128,UnityEditor.Tools/LayerSettings)
+UnityEditor.Tools:set_lockedLayers (int)
+UnityEditor.Tools:OnEnable ()
+UnityEngine.ScriptableObject:CreateInstance (System.Type)
+UnityEngine.ScriptableObject:CreateInstance<UnityEditor.Tools> ()
+UnityEditor.Tools:get_get ()
+UnityEditor.Tools:get_lockedLayers ()
+AutoLockUILayer:SetUILayerIsLocked (bool) (at Assets/Karting/Scripts/Editor/AutoLockUILayer.cs:36)
+AutoLockUILayer:.cctor () (at Assets/Karting/Scripts/Editor/AutoLockUILayer.cs:16)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Karting/Scripts/Editor/AutoLockUILayer.cs Line: 36)
+
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.667 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1668ms)
+		BeginReloadAssembly (266ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (48ms)
+		EndReloadAssembly (1303ms)
+			LoadAssemblies (400ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (305ms)
+				TypeCache.Initialize (299ms)
+					TypeCache.ScanAssembly (292ms)
+				ResolveRequiredComponents (6ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (615ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (52ms)
+				SetLoadedEditorAssemblies (7ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (85ms)
+				ProcessInitializeOnLoadAttributes (420ms)
+				ProcessInitializeOnLoadMethodAttributes (31ms)
+				AfterProcessingInitializeOnLoad (19ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5.51 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4819 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 93 unused Assets / (23.7 MB). Loaded Objects now: 5249.
+Memory consumption went from 0.75 GB to 0.73 GB.
+Total: 17.427600 ms (FindLiveObjects: 0.776900 ms CreateObjectMapping: 0.175900 ms MarkObjects: 6.183000 ms  DeleteObjects: 10.289400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010487 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 120.78 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.452 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1453ms)
+		BeginReloadAssembly (162ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (52ms)
+		EndReloadAssembly (1183ms)
+			LoadAssemblies (129ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (323ms)
+				TypeCache.Initialize (311ms)
+					TypeCache.ScanAssembly (303ms)
+				ResolveRequiredComponents (12ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (634ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (43ms)
+				SetLoadedEditorAssemblies (7ms)
+				RefreshPlugins (121ms)
+				BeforeProcessingInitializeOnLoad (91ms)
+				ProcessInitializeOnLoadAttributes (291ms)
+				ProcessInitializeOnLoadMethodAttributes (69ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultShader () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:1021 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.GetMaterial (UnityEngine.Rendering.Universal.DefaultMaterialType materialType) [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:449 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultMaterial () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:955 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+Shader 'Universal Render Pipeline/Nature/SpeedTree7': dependency 'BillboardShader' shader 'Universal Render Pipeline/Nature/SpeedTree7 Billboard' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'Universal Render Pipeline/Baked Lit': fallback shader 'Universal Render Pipeline/Unlit' not found
+Refreshing native plugins compatible for Editor in 4.41 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6249 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 171 unused Assets / (30.2 MB). Loaded Objects now: 6623.
+Memory consumption went from 0.97 GB to 0.94 GB.
+Total: 15.284200 ms (FindLiveObjects: 0.699400 ms CreateObjectMapping: 0.182900 ms MarkObjects: 4.654000 ms  DeleteObjects: 9.746300 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultShader () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:1021 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.GetMaterial (UnityEngine.Rendering.Universal.DefaultMaterialType materialType) [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:449 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultMaterial () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:955 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:srp/default-shader: 0000e00a000e0de00000e000e0000000 -> 00a0da0d000000000000000000000000
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:srp/default-material: 1323b11ab5f8e84b9c4553e3cd30b8d1 -> 00000000000000000f00000000000000
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 8147.310173 seconds.
+  path: Assets/Karting/PhysicsMaterials/CarWheels.physicMaterial
+  artifactKey: Guid(83f0e1b2590734b80bda8c5dcda941da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/PhysicsMaterials/CarWheels.physicMaterial using Guid(83f0e1b2590734b80bda8c5dcda941da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fb5421598ab9e9ca4aba6c52c6b3b59') in 0.071238 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Karting/PhysicsMaterials/KartFriction.physicMaterial
+  artifactKey: Guid(9b882955b142f084cbe20df1d8604b5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/PhysicsMaterials/KartFriction.physicMaterial using Guid(9b882955b142f084cbe20df1d8604b5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0afc02ac2f9dfa70ef6d05decf9c215') in 0.010670 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Karting/PhysicsMaterials/RampFriction.physicMaterial
+  artifactKey: Guid(5c8f7b1a953cc3c47ac059ea6d07282a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/PhysicsMaterials/RampFriction.physicMaterial using Guid(5c8f7b1a953cc3c47ac059ea6d07282a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a68e30ff25e0c1a91a09c0c8d7e5d2ad') in 0.009809 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011411 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.30 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.463 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1464ms)
+		BeginReloadAssembly (173ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (55ms)
+		EndReloadAssembly (1180ms)
+			LoadAssemblies (133ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (322ms)
+				TypeCache.Initialize (308ms)
+					TypeCache.ScanAssembly (301ms)
+				ResolveRequiredComponents (14ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (614ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (42ms)
+				SetLoadedEditorAssemblies (8ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (109ms)
+				ProcessInitializeOnLoadAttributes (358ms)
+				ProcessInitializeOnLoadMethodAttributes (80ms)
+				AfterProcessingInitializeOnLoad (15ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultShader () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:1021 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.GetMaterial (UnityEngine.Rendering.Universal.DefaultMaterialType materialType) [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:449 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultMaterial () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:955 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+Refreshing native plugins compatible for Editor in 5.08 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6248 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 167 unused Assets / (30.1 MB). Loaded Objects now: 6641.
+Memory consumption went from 0.97 GB to 0.94 GB.
+Total: 20.717100 ms (FindLiveObjects: 0.752300 ms CreateObjectMapping: 0.163100 ms MarkObjects: 5.225000 ms  DeleteObjects: 14.575700 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultShader () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:1021 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.GetMaterial (UnityEngine.Rendering.Universal.DefaultMaterialType materialType) [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:449 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultMaterial () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:955 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:srp/default-shader: 0000e00a000e0de00000e000e0000000 -> 00a0da0d000000000000000000000000
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:srp/default-material: 1323b11ab5f8e84b9c4553e3cd30b8d1 -> 00000000000000000f00000000000000
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

@@ -1,0 +1,2249 @@
+Using pre-set license
+Built from '2022.1/staging' branch; Version is '2022.1.16f1 (7321c9670bc2) revision 7545289'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Education' Language: 'en' Physical Memory: 8117 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.1.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/CB.345/kart
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58431
+Successfully changed project path to: C:/Users/CB.345/kart
+C:/Users/CB.345/kart
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 216.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.1.16f1 (7321c9670bc2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/CB.345/kart/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x2188)
+    Vendor:   NVIDIA
+    VRAM:     3962 MB
+    Driver:   31.0.15.1694
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56868
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/AppleTVSupport/UnityEditor.AppleTV.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.1.16f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.016954 seconds.
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for AppleTV target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 72.83 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.699 seconds
+Domain Reload Profiling:
+	ReloadAssembly (699ms)
+		BeginReloadAssembly (90ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (486ms)
+			LoadAssemblies (89ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (120ms)
+				TypeCache.Initialize (119ms)
+					TypeCache.ScanAssembly (118ms)
+				ResolveRequiredComponents (0ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (284ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (72ms)
+				SetLoadedEditorAssemblies (6ms)
+				RefreshPlugins (73ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (93ms)
+				ProcessInitializeOnLoadMethodAttributes (39ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008606 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.112 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1113ms)
+		BeginReloadAssembly (153ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (821ms)
+			LoadAssemblies (124ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (259ms)
+				TypeCache.Initialize (255ms)
+					TypeCache.ScanAssembly (250ms)
+				ResolveRequiredComponents (3ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (374ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (39ms)
+				SetLoadedEditorAssemblies (6ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (85ms)
+				ProcessInitializeOnLoadAttributes (202ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3399 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (58.3 KB). Loaded Objects now: 3861.
+Memory consumption went from 0.51 GB to 0.51 GB.
+Total: 4.082900 ms (FindLiveObjects: 0.454100 ms CreateObjectMapping: 0.105600 ms MarkObjects: 3.380900 ms  DeleteObjects: 0.141200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 6878.696276 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(d496c9a343e3f6644a6291a51bb4bf22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(d496c9a343e3f6644a6291a51bb4bf22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8974b0905a31c65a4d1024122a6dd93') in 0.016376 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 347.615021 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f06ff7518c93fa7a16f3a53a85d38f58') in 0.010333 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.160649 seconds.
+  path: Packages/com.unity.testtools.codecoverage/package.json
+  artifactKey: Guid(ba7d60725b0ec604698819352642be89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.testtools.codecoverage/package.json using Guid(ba7d60725b0ec604698819352642be89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1759a753679e55e310fc685ef4ff2fc') in 0.040874 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.021837 seconds.
+  path: Packages/com.unity.editorcoroutines/package.json
+  artifactKey: Guid(6428ca6f30e71ee4dbea7e1d0787cb07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.editorcoroutines/package.json using Guid(6428ca6f30e71ee4dbea7e1d0787cb07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f7752386aecc45993591de6216aa6ac') in 0.002640 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.152693 seconds.
+  path: Packages/com.unity.ext.nunit/package.json
+  artifactKey: Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ext.nunit/package.json using Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31d196f9f59ba80c1deba05ea4041205') in 0.002617 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.413419 seconds.
+  path: Packages/com.unity.performance.profile-analyzer/package.json
+  artifactKey: Guid(478e38cbe30254f8c868840b4e2f32e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.performance.profile-analyzer/package.json using Guid(478e38cbe30254f8c868840b4e2f32e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10bc94b12fa52916bd8755b8ec158e05') in 0.002534 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.498410 seconds.
+  path: Packages/com.unity.test-framework/package.json
+  artifactKey: Guid(d6a2e6e4803de7b43baacdc355fc144d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.test-framework/package.json using Guid(d6a2e6e4803de7b43baacdc355fc144d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a0b975fe227600da7aa4a6f5d53082a') in 0.002498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.348880 seconds.
+  path: Packages/com.unity.ugui/package.json
+  artifactKey: Guid(319b8889f363f5947acf209c17a94149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ugui/package.json using Guid(319b8889f363f5947acf209c17a94149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9c1628cdf56bcebfdab3cd4d363886f') in 0.002596 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.418969 seconds.
+  path: Packages/com.unity.visualscripting/package.json
+  artifactKey: Guid(545a9d2bc7370224f8d14c22f2f580e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualscripting/package.json using Guid(545a9d2bc7370224f8d14c22f2f580e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe7d9be0e15ae19c18d9993356a0323a') in 0.002662 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.377909 seconds.
+  path: Packages/com.unity.ide.vscode/package.json
+  artifactKey: Guid(ffc6271f08270b64ca0aae9c49235d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.vscode/package.json using Guid(ffc6271f08270b64ca0aae9c49235d81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b7d9bbe6b354265e930f2e4c9f83cd4') in 0.002465 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.315762 seconds.
+  path: Packages/com.unity.ide.visualstudio/package.json
+  artifactKey: Guid(656f74f6edaa396458412b9e3903d8cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ide.visualstudio/package.json using Guid(656f74f6edaa396458412b9e3903d8cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc4fb554cf490eceb2a0eda1bda749c3') in 0.002644 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.193386 seconds.
+  path: Assets/Scenes/New Folder
+  artifactKey: Guid(6c2bdbd70da4d4d409e7e903417e9407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/New Folder using Guid(6c2bdbd70da4d4d409e7e903417e9407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa9b0bc110fa93e27131f8201756712a') in 0.009882 seconds 
+========================================================================
+Received Prepare
+Shader 'TextMeshPro/Distance Field Overlay': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Refreshing native plugins compatible for Editor in 7.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 106 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 30 unused Assets / (0.6 MB). Loaded Objects now: 3939.
+Memory consumption went from 80.1 MB to 79.5 MB.
+Total: 8.684400 ms (FindLiveObjects: 0.773700 ms CreateObjectMapping: 0.480200 ms MarkObjects: 6.645300 ms  DeleteObjects: 0.784200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012512 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 90.79 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.436 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1436ms)
+		BeginReloadAssembly (155ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (43ms)
+		EndReloadAssembly (1183ms)
+			LoadAssemblies (111ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (286ms)
+				TypeCache.Initialize (280ms)
+					TypeCache.ScanAssembly (274ms)
+				ResolveRequiredComponents (6ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (714ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (46ms)
+				SetLoadedEditorAssemblies (6ms)
+				RefreshPlugins (91ms)
+				BeforeProcessingInitializeOnLoad (81ms)
+				ProcessInitializeOnLoadAttributes (458ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 9.50 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4819 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 93 unused Assets / (23.6 MB). Loaded Objects now: 5233.
+Memory consumption went from 0.75 GB to 0.73 GB.
+Total: 10.686700 ms (FindLiveObjects: 0.522600 ms CreateObjectMapping: 0.147500 ms MarkObjects: 4.317300 ms  DeleteObjects: 5.698300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.145783 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.665 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1666ms)
+		BeginReloadAssembly (267ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (50ms)
+		EndReloadAssembly (1300ms)
+			LoadAssemblies (399ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (311ms)
+				TypeCache.Initialize (306ms)
+					TypeCache.ScanAssembly (298ms)
+				ResolveRequiredComponents (6ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (608ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (52ms)
+				SetLoadedEditorAssemblies (7ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (82ms)
+				ProcessInitializeOnLoadAttributes (416ms)
+				ProcessInitializeOnLoadMethodAttributes (33ms)
+				AfterProcessingInitializeOnLoad (17ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.11 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4819 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 93 unused Assets / (23.6 MB). Loaded Objects now: 5250.
+Memory consumption went from 0.75 GB to 0.73 GB.
+Total: 15.457000 ms (FindLiveObjects: 0.611100 ms CreateObjectMapping: 0.228200 ms MarkObjects: 5.484700 ms  DeleteObjects: 9.131100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 322.100403 seconds.
+  path: Assets/Karting
+  artifactKey: Guid(5b37cab98afac4ca696e7a5c19dec454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting using Guid(5b37cab98afac4ca696e7a5c19dec454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '304444cddedbbf4559113f753de63311') in 0.014109 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 44.745890 seconds.
+  path: Assets/Karting/Scenes
+  artifactKey: Guid(2d9368ff4695049bc9d47fc5d53d88a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Scenes using Guid(2d9368ff4695049bc9d47fc5d53d88a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be5efde8292663e85cb84c15a1238a1b') in 0.016713 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009997 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 120.82 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Error saving file Library/StateCache/LayerSettings/9e/9ecc5c3c162a7aba29bafa64c8b94b7c.json. Error: System.IO.IOException: Sharing violation on path C:\Users\CB.345\kart\Library\StateCache\LayerSettings\9e\9ecc5c3c162a7aba29bafa64c8b94b7c.json
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <3dd5df5ef4974f29afeb2d3ba227c5da>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.IO.FileOptions options) [0x00000] in <3dd5df5ef4974f29afeb2d3ba227c5da>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare,int,System.IO.FileOptions)
+  at System.IO.StreamWriter..ctor (System.String path, System.Boolean append, System.Text.Encoding encoding, System.Int32 bufferSize) [0x00055] in <3dd5df5ef4974f29afeb2d3ba227c5da>:0 
+  at System.IO.StreamWriter..ctor (System.String path, System.Boolean append, System.Text.Encoding encoding) [0x00000] in <3dd5df5ef4974f29afeb2d3ba227c5da>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamWriter..ctor(string,bool,System.Text.Encoding)
+  at System.IO.File.WriteAllText (System.String path, System.String contents, System.Text.Encoding encoding) [0x00034] in <3dd5df5ef4974f29afeb2d3ba227c5da>:0 
+  at UnityEditor.StateCache`1[T].SetState (UnityEngine.Hash128 key, T obj) [0x0004b] in <8a1c902e1cc24cec8e4dda915647a0cd>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.StateCache`1<UnityEditor.Tools/LayerSettings>:SetState (UnityEngine.Hash128,UnityEditor.Tools/LayerSettings)
+UnityEditor.Tools:set_lockedLayers (int)
+UnityEditor.Tools:OnEnable ()
+UnityEngine.ScriptableObject:CreateInstance (System.Type)
+UnityEngine.ScriptableObject:CreateInstance<UnityEditor.Tools> ()
+UnityEditor.Tools:get_get ()
+UnityEditor.Tools:get_lockedLayers ()
+AutoLockUILayer:SetUILayerIsLocked (bool) (at Assets/Karting/Scripts/Editor/AutoLockUILayer.cs:36)
+AutoLockUILayer:.cctor () (at Assets/Karting/Scripts/Editor/AutoLockUILayer.cs:16)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Karting/Scripts/Editor/AutoLockUILayer.cs Line: 36)
+
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.461 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1461ms)
+		BeginReloadAssembly (160ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (49ms)
+		EndReloadAssembly (1194ms)
+			LoadAssemblies (131ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (321ms)
+				TypeCache.Initialize (310ms)
+					TypeCache.ScanAssembly (301ms)
+				ResolveRequiredComponents (12ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (642ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (46ms)
+				SetLoadedEditorAssemblies (7ms)
+				RefreshPlugins (121ms)
+				BeforeProcessingInitializeOnLoad (93ms)
+				ProcessInitializeOnLoadAttributes (295ms)
+				ProcessInitializeOnLoadMethodAttributes (69ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultShader () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:1021 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.GetMaterial (UnityEngine.Rendering.Universal.DefaultMaterialType materialType) [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:449 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultMaterial () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:955 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+Shader 'Universal Render Pipeline/Nature/SpeedTree7': dependency 'BillboardShader' shader 'Universal Render Pipeline/Nature/SpeedTree7 Billboard' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'Universal Render Pipeline/Baked Lit': fallback shader 'Universal Render Pipeline/Unlit' not found
+Refreshing native plugins compatible for Editor in 6.30 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6249 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 171 unused Assets / (30.1 MB). Loaded Objects now: 6624.
+Memory consumption went from 0.97 GB to 0.94 GB.
+Total: 14.723900 ms (FindLiveObjects: 0.715800 ms CreateObjectMapping: 0.175300 ms MarkObjects: 4.297600 ms  DeleteObjects: 9.533800 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultShader () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:1021 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.GetMaterial (UnityEngine.Rendering.Universal.DefaultMaterialType materialType) [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:449 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultMaterial () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:955 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:srp/default-shader: 0000e00a000e0de00000e000e0000000 -> 00a0da0d000000000000000000000000
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:srp/default-material: 1323b11ab5f8e84b9c4553e3cd30b8d1 -> 00000000000000000f00000000000000
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 481.917801 seconds.
+  path: Assets/Karting/PhysicsMaterials/ArcadeKartBody.physicMaterial
+  artifactKey: Guid(d95b5e49839d84ee191c3c6961b60124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/PhysicsMaterials/ArcadeKartBody.physicMaterial using Guid(d95b5e49839d84ee191c3c6961b60124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fadcab8e0558e4da7bedd12a85b0ded') in 0.056429 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015980 seconds.
+  path: Assets/Karting/PhysicsMaterials/CrashObjectFriction.physicMaterial
+  artifactKey: Guid(0fcb759f3ea86e14395360c51926825c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/PhysicsMaterials/CrashObjectFriction.physicMaterial using Guid(0fcb759f3ea86e14395360c51926825c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d2d9c78d64badd9d0d21d54d6cdcb19') in 0.016165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Karting/PhysicsMaterials/NoFriction.physicMaterial
+  artifactKey: Guid(a46ba4e273ba0684f90f4acc0fdf44d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/PhysicsMaterials/NoFriction.physicMaterial using Guid(a46ba4e273ba0684f90f4acc0fdf44d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40379d3ca77103a0501445466b2ebfcd') in 0.013495 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Karting/PhysicsMaterials/KartFrictionV2.physicMaterial
+  artifactKey: Guid(563cf269950b97f4ea88dc91eaf1889d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/PhysicsMaterials/KartFrictionV2.physicMaterial using Guid(563cf269950b97f4ea88dc91eaf1889d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '902b7d0053fc212992c71d84e679e8d2') in 0.010694 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.252616 seconds.
+  path: Assets/Karting/Prefabs/KartClassic
+  artifactKey: Guid(a55e39e2c7a89b742916d78c2cfeec7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Prefabs/KartClassic using Guid(a55e39e2c7a89b742916d78c2cfeec7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '846c7cecaba44830945055738ac6507f') in 0.011775 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.423758 seconds.
+  path: Assets/Karting/Prefabs/Tracks
+  artifactKey: Guid(ddcbc3b993fe8c74e84edff683c9de2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Prefabs/Tracks using Guid(ddcbc3b993fe8c74e84edff683c9de2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6113dec6695cd96046354c8027146a2d') in 0.010940 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.553482 seconds.
+  path: Assets/Karting/Prefabs/TrackPieces
+  artifactKey: Guid(4635e9601ffdd9e47ad101b634e124b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Prefabs/TrackPieces using Guid(4635e9601ffdd9e47ad101b634e124b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7e88d5bb17371e075308308e3e0141e') in 0.010682 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011343 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.38 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.494 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1495ms)
+		BeginReloadAssembly (171ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (55ms)
+		EndReloadAssembly (1217ms)
+			LoadAssemblies (137ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (338ms)
+				TypeCache.Initialize (324ms)
+					TypeCache.ScanAssembly (314ms)
+				ResolveRequiredComponents (14ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (58ms)
+			SetupLoadedEditorAssemblies (629ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (43ms)
+				SetLoadedEditorAssemblies (7ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (110ms)
+				ProcessInitializeOnLoadAttributes (362ms)
+				ProcessInitializeOnLoadMethodAttributes (89ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultShader () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:1021 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.GetMaterial (UnityEngine.Rendering.Universal.DefaultMaterialType materialType) [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:449 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultMaterial () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:955 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+Refreshing native plugins compatible for Editor in 4.97 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6248 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 167 unused Assets / (30.1 MB). Loaded Objects now: 6641.
+Memory consumption went from 0.97 GB to 0.94 GB.
+Total: 19.842300 ms (FindLiveObjects: 0.821800 ms CreateObjectMapping: 0.203500 ms MarkObjects: 5.651400 ms  DeleteObjects: 13.164500 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultShader () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:1021 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.GetMaterial (UnityEngine.Rendering.Universal.DefaultMaterialType materialType) [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:449 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultMaterial () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:955 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:srp/default-shader: 0000e00a000e0de00000e000e0000000 -> 00a0da0d000000000000000000000000
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:srp/default-material: 1323b11ab5f8e84b9c4553e3cd30b8d1 -> 00000000000000000f00000000000000
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008997 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.16 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.537 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1538ms)
+		BeginReloadAssembly (184ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (62ms)
+		EndReloadAssembly (1237ms)
+			LoadAssemblies (128ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (381ms)
+				TypeCache.Initialize (367ms)
+					TypeCache.ScanAssembly (357ms)
+				ResolveRequiredComponents (14ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (67ms)
+			SetupLoadedEditorAssemblies (612ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (51ms)
+				SetLoadedEditorAssemblies (8ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (117ms)
+				ProcessInitializeOnLoadAttributes (339ms)
+				ProcessInitializeOnLoadMethodAttributes (79ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultShader () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:1021 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.GetMaterial (UnityEngine.Rendering.Universal.DefaultMaterialType materialType) [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:449 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultMaterial () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:955 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+Refreshing native plugins compatible for Editor in 4.09 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6248 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 167 unused Assets / (30.1 MB). Loaded Objects now: 6658.
+Memory consumption went from 0.97 GB to 0.94 GB.
+Total: 16.708400 ms (FindLiveObjects: 0.637200 ms CreateObjectMapping: 0.195900 ms MarkObjects: 4.830600 ms  DeleteObjects: 11.043800 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultShader () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:1021 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.GetMaterial (UnityEngine.Rendering.Universal.DefaultMaterialType materialType) [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:449 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultMaterial () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:955 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:srp/default-shader: 0000e00a000e0de00000e000e0000000 -> 00a0da0d000000000000000000000000
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:srp/default-material: 1323b11ab5f8e84b9c4553e3cd30b8d1 -> 00000000000000000f00000000000000
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009087 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\CB.345\kart\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 2.59 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.433 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1434ms)
+		BeginReloadAssembly (150ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (50ms)
+		EndReloadAssembly (1184ms)
+			LoadAssemblies (106ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (331ms)
+				TypeCache.Initialize (318ms)
+					TypeCache.ScanAssembly (310ms)
+				ResolveRequiredComponents (13ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (69ms)
+			SetupLoadedEditorAssemblies (610ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (48ms)
+				SetLoadedEditorAssemblies (10ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (118ms)
+				ProcessInitializeOnLoadAttributes (340ms)
+				ProcessInitializeOnLoadMethodAttributes (79ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultShader () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:1021 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.GetMaterial (UnityEngine.Rendering.Universal.DefaultMaterialType materialType) [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:449 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultMaterial () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:955 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+Refreshing native plugins compatible for Editor in 4.12 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6248 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 167 unused Assets / (30.1 MB). Loaded Objects now: 6675.
+Memory consumption went from 0.97 GB to 0.94 GB.
+Total: 16.374400 ms (FindLiveObjects: 0.818000 ms CreateObjectMapping: 0.251300 ms MarkObjects: 4.771800 ms  DeleteObjects: 10.532200 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultShader () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:1021 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_scriptableRendererData () [0x00015] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:543 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.GetMaterial (UnityEngine.Rendering.Universal.DefaultMaterialType materialType) [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:449 
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.get_defaultMaterial () [0x00000] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:955 
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:srp/default-shader: 0000e00a000e0de00000e000e0000000 -> 00a0da0d000000000000000000000000
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:srp/default-material: 1323b11ab5f8e84b9c4553e3cd30b8d1 -> 00000000000000000f00000000000000
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 544.595112 seconds.
+  path: Assets/Karting/Prefabs/Props/CrashObject.prefab
+  artifactKey: Guid(29be64d49c04eed4781cd23c6865ca7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Prefabs/Props/CrashObject.prefab using Guid(29be64d49c04eed4781cd23c6865ca7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: '6d46acb1369657deb9524add96ba32d3') in 0.129330 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Karting/Prefabs/Props/JumpRamp.prefab
+  artifactKey: Guid(db0af21853ba047fda7b6e30b74ffedf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Prefabs/Props/JumpRamp.prefab using Guid(db0af21853ba047fda7b6e30b74ffedf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: '02e79c433359d3e274c85d0cd6a398c1') in 0.032259 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Karting/Prefabs/Props/LapCheckpoint.prefab
+  artifactKey: Guid(63c348de78fb78f44befbc3f5bccddc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Prefabs/Props/LapCheckpoint.prefab using Guid(63c348de78fb78f44befbc3f5bccddc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: 'd605fac1d42a44d11771ab727a11a0fd') in 0.025361 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Karting/Prefabs/Props/StartFinishLine.prefab
+  artifactKey: Guid(5cdf1b2b8a98d6e40a85d1cde3907099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Prefabs/Props/StartFinishLine.prefab using Guid(5cdf1b2b8a98d6e40a85d1cde3907099) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: 'cbff428d9e6eddf67b5164440d756bd8') in 0.022856 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Karting/Prefabs/Props/PhysicsBall_Default.prefab
+  artifactKey: Guid(1d806fa299adb8a4eab57244b3d27969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Prefabs/Props/PhysicsBall_Default.prefab using Guid(1d806fa299adb8a4eab57244b3d27969) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: 'e4e1e2c16b4d466f56c42da707c80b1c') in 0.022941 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.707639 seconds.
+  path: Assets/Karting/Animations/KartIdle.FBX
+  artifactKey: Guid(379c82acbb20c4747b42575fb9e5011e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Animations/KartIdle.FBX using Guid(379c82acbb20c4747b42575fb9e5011e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: 'f53f5df0ba38a78736059f8a645bf9e9') in 0.368843 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.060027 seconds.
+  path: Assets/Karting/Art/Models/Building01CornerPlain.fbx
+  artifactKey: Guid(ee73619a09d1dc54ca72cdbc2a1d3c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/Building01CornerPlain.fbx using Guid(ee73619a09d1dc54ca72cdbc2a1d3c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: 'a0d3b00977b2c391eb1f49f016cdd1b1') in 0.030263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Karting/Art/Models/TrackCurveMedium.fbx
+  artifactKey: Guid(cf8b46f3b71641b42b2e8cf974e9c644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/TrackCurveMedium.fbx using Guid(cf8b46f3b71641b42b2e8cf974e9c644) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: '56b5b067997d957ce2143ddec3519646') in 0.057877 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Karting/Art/Models/TrackCurveBig.fbx
+  artifactKey: Guid(ea8028981c410bd43a9a7467f73c6591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/TrackCurveBig.fbx using Guid(ea8028981c410bd43a9a7467f73c6591) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: '3812f8bf3cdd84e97ab6720560e3d5a5') in 0.053592 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Karting/Art/Models/TrackStraightShort.fbx
+  artifactKey: Guid(c536be666f60a094ca84fdea79a89adb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/TrackStraightShort.fbx using Guid(c536be666f60a094ca84fdea79a89adb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: '92a5a5ebcdf420b5f4a46640ae9c2160') in 0.051472 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Karting/Art/Models/TrackToCamberMeshColliderGround.fbx
+  artifactKey: Guid(ee53d570b8e99754889811c75e57f688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/TrackToCamberMeshColliderGround.fbx using Guid(ee53d570b8e99754889811c75e57f688) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: 'ad4d0db74ee3296e67e3b458a3f3bd01') in 0.038245 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Karting/Art/Models/CheckpointRing.fbx
+  artifactKey: Guid(84a7b40117d0ef4459d027ff7e7a1cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/CheckpointRing.fbx using Guid(84a7b40117d0ef4459d027ff7e7a1cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.MaterialEditor:DoRenderPreview(PreviewRenderUtility, Boolean)
+UnityEditor.MaterialEditor:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: '455ebb403da3a8a6016e686c0be09bad') in 0.135582 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Karting/Art/Models/BuildingRoofCorner.fbx
+  artifactKey: Guid(f46a9f80d31a32e47a57aa4858036430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/BuildingRoofCorner.fbx using Guid(f46a9f80d31a32e47a57aa4858036430) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: 'd0369f5fefd39258502cf9382803257d') in 0.028862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Karting/Art/Models/TrackCamberCurve.fbx
+  artifactKey: Guid(3a78ab987181dc945be82cdb21028861) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/TrackCamberCurve.fbx using Guid(3a78ab987181dc945be82cdb21028861) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: '4104a1b4efb0bbb3d2d7d3f4f3f85dd8') in 0.053130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Karting/Art/Models/TrackCurveBigMeshColliderGround.fbx
+  artifactKey: Guid(e7dd2bb6af3d71e419b224eeb9a39dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/TrackCurveBigMeshColliderGround.fbx using Guid(e7dd2bb6af3d71e419b224eeb9a39dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: '89a7ebcbfa54f951f0a9513a116f6b8e') in 0.041371 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Karting/Art/Models/TrackCamberMeshColliderWalls.fbx
+  artifactKey: Guid(f5a44503c018d324580820af937c9987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/TrackCamberMeshColliderWalls.fbx using Guid(f5a44503c018d324580820af937c9987) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: '68a450ed290d40eacc0b6709c6a64123') in 0.042524 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Karting/Art/Models/Building03WallWideWindow.fbx
+  artifactKey: Guid(8021d7313a3bc1240bb3e96d591721bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/Building03WallWideWindow.fbx using Guid(8021d7313a3bc1240bb3e96d591721bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: '9c8a40ddcd674cd3d4d1f5f9d94c1c4c') in 0.035393 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Karting/Art/Models/BuildingAirConditioner.fbx
+  artifactKey: Guid(a1115a8b4e0c27d43883e5bf6d307390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/BuildingAirConditioner.fbx using Guid(a1115a8b4e0c27d43883e5bf6d307390) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: 'da59c15ba53ffd026dc61e20ba75160e') in 0.035936 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Karting/Art/Models/Building03CornerWideWindow.fbx
+  artifactKey: Guid(2dc0b90df1333dc469eeb6cff505ccb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/Building03CornerWideWindow.fbx using Guid(2dc0b90df1333dc469eeb6cff505ccb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: 'bca64f51c34d3a74083ff427145da82b') in 0.032569 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Karting/Art/Models/ramp.fbx
+  artifactKey: Guid(ea11a61298b6fe94bb5d1f868dafa69a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/ramp.fbx using Guid(ea11a61298b6fe94bb5d1f868dafa69a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: '2bc29507574c618618aa05ecca6944ac') in 0.028026 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Karting/Art/Models/BuildingRoofWalls.fbx
+  artifactKey: Guid(96819d445b8f3e54bafac2405ab1e2e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/BuildingRoofWalls.fbx using Guid(96819d445b8f3e54bafac2405ab1e2e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: '56660321178f4bd5f596bc822b305fe0') in 0.034625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Karting/Art/Models/TrackToCamberMeshColliderWalls.fbx
+  artifactKey: Guid(caf6e7e523c6b9a44896f63539e75677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/TrackToCamberMeshColliderWalls.fbx using Guid(caf6e7e523c6b9a44896f63539e75677) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: 'a33f8ffe38ab60a1c527fc328e0a6c3b') in 0.040745 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Karting/Art/Models/TreeRound.FBX
+  artifactKey: Guid(dca6189290e8c16479a364fa6d80b6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/TreeRound.FBX using Guid(dca6189290e8c16479a364fa6d80b6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: '857bc3d7b3bccfe7ffcaaae6480cf36c') in 0.040081 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Karting/Art/Models/Building04WallBarWindow.fbx
+  artifactKey: Guid(ac00f20c6d5bd584e9999b1195b74bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/Building04WallBarWindow.fbx using Guid(ac00f20c6d5bd584e9999b1195b74bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: '3421fbb2189287c8f6e8e7858aadcdf2') in 0.031241 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Karting/Art/Models/TrackStraightShortMeshColliderGround.fbx
+  artifactKey: Guid(c26a2ada60c256142a8586788911a9ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/TrackStraightShortMeshColliderGround.fbx using Guid(c26a2ada60c256142a8586788911a9ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: 'a3ae4167b25c71515d1c5db7455a9013') in 0.040052 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Karting/Art/Models/TrackCurveMediumMeshColliderGround.fbx
+  artifactKey: Guid(4dab2a37e1d72794cbd731aacb7847dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/TrackCurveMediumMeshColliderGround.fbx using Guid(4dab2a37e1d72794cbd731aacb7847dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: 'fd8be0a25d2feda2462702f97e448b72') in 0.042740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Karting/Art/Models/Pipe.fbx
+  artifactKey: Guid(4a17d942f49fa4e49ae899122b72e91d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/Pipe.fbx using Guid(4a17d942f49fa4e49ae899122b72e91d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: 'c526fabb086d4fcd5893970bdf624c79') in 0.031477 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Karting/Art/Models/BuildingShortModel.fbx
+  artifactKey: Guid(c2c0d74b41b8c4077b14073abca6504f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/BuildingShortModel.fbx using Guid(c2c0d74b41b8c4077b14073abca6504f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: '437281598b84285f24df42c0eaca03a2') in 0.038279 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Karting/Art/Models/TrackCamberMeshColliderGround.fbx
+  artifactKey: Guid(74fd08689db02b94a8cac89c8bb7f35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/TrackCamberMeshColliderGround.fbx using Guid(74fd08689db02b94a8cac89c8bb7f35c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: 'e9d58a57bc68dbe202a82200e598bc87') in 0.040847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Karting/Art/Models/Cloud.FBX
+  artifactKey: Guid(0829d76c4806eb54b8b2f17eec10f4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/Cloud.FBX using Guid(0829d76c4806eb54b8b2f17eec10f4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: '7c8d96197c87459883396ee7cd68ca93') in 0.036104 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Karting/Art/Models/StartFinishLine.fbx
+  artifactKey: Guid(b974c5c08f684144a8c03f16eb4ad6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/StartFinishLine.fbx using Guid(b974c5c08f684144a8c03f16eb4ad6b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: '17c44481a1e2015bf642f20c9fa2b28f') in 0.031988 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Karting/Art/Models/TrackCurveSmallMeshColliderGround.fbx
+  artifactKey: Guid(7a12252bdee88de449f5e72aa3547da4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/TrackCurveSmallMeshColliderGround.fbx using Guid(7a12252bdee88de449f5e72aa3547da4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: 'b52c98cf1ea2485a84b2a751138b09c1') in 0.043117 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Karting/Art/Models/Building02CornerBricks.fbx
+  artifactKey: Guid(91cfa91e879ed5e42ac5a4f865fc05d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/Building02CornerBricks.fbx using Guid(91cfa91e879ed5e42ac5a4f865fc05d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: 'f3a080b7ce33c65f2a9ed62af5cc7e35') in 0.033918 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Karting/Art/Models/TrackCurveSmall.fbx
+  artifactKey: Guid(6aba5d5cbbb6df346ba45c2991fcaf00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/TrackCurveSmall.fbx using Guid(6aba5d5cbbb6df346ba45c2991fcaf00) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: '85ccd25621b5c9cd73f1d3b4964ad636') in 0.052276 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Karting/Art/Models/Hill.fbx
+  artifactKey: Guid(92bb9994204d1d44cb6223c53e4f84f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/Hill.fbx using Guid(92bb9994204d1d44cb6223c53e4f84f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) NullReferenceException: Object reference not set to an instance of an object
+  at UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset.CreatePipeline () [0x00039] in C:\Users\CB.345\kart\Library\PackageCache\com.unity.render-pipelines.universal@13.1.8\Runtime\Data\UniversalRenderPipelineAsset.cs:373 
+  at UnityEngine.Rendering.RenderPipelineAsset.InternalCreatePipeline () [0x00004] in <790a43858b4b404fbe02a2b7b4a0d9d6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+UnityEngine.Rendering.RenderPipelineAsset:InternalCreatePipeline()
+UnityEngine.Rendering.RenderPipelineManager:PrepareRenderPipeline(RenderPipelineAsset)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal(RenderPipelineAsset, IntPtr, List`1, AtomicSafetyHandle)
+UnityEngine.Camera:Render(Camera)
+UnityEditor.PreviewRenderUtility:Render(Boolean, Boolean)
+UnityEditor.GameObjectInspector:DoRenderPreview(PreviewData)
+UnityEditor.GameObjectInspector:RenderStaticPreview(String, Object[], Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreview(Object, Object[], String, Int32, Int32)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset(Object, Object[], String)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.universal@13.1.8/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 373)
+
+ -> (artifact id: 'c3f80a2ce44d6dbb849df6b66f92d640') in 0.038162 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
